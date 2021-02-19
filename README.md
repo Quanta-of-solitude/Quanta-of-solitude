@@ -16,7 +16,7 @@ Experienced in embedded devices namely Arduino, Raspberry Pi and Nvidia Jetson N
 Trying to get into Open Source
 
 ### Projects 
-<img align="right" src="https://github.com/Quanta-of-solitude/Quanta-of-solitude/blob/master/logo.png" width="32%"/>
+<img align="right" src="https://github.com/Quanta-of-solitude/Quanta-of-solitude/blob/master/logo_t.png" width="32%"/>
 
 - [Winter-Song](https://github.com/Quanta-of-solitude/winter_Noble_old)
 - [MyAL](https://pypi.org/project/MyAL/0.3/)
