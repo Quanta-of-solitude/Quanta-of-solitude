@@ -32,4 +32,4 @@ Trying to get into Open Source
 <img src="https://github-readme-stats.vercel.app/api?username=quanta-of-solitude&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="100%"/><br>
 
 
-### I also write blogs (Non - technical) 📑 <a href = "https://www.sadsoulofwords.com/" target="_blank">Here</a>
+### I also write blogs (Non - technical) 📑 <a href = "https://www.wordsofasoul.xyz/" target="_blank">Here</a>
