@@ -22,11 +22,12 @@ Trying to get into Open Source
 <img align="right" src="https://github.com/Quanta-of-solitude/Quanta-of-solitude/blob/main/logo_t.png" width="32%"/>
 
 - [Winter-Song](https://github.com/Quanta-of-solitude/winter_Noble_old)[over 67k online users]
-- [Interesting Stuff](https://github.com/Quanta-of-solitude/mini-YT-Whatsapp-openCV-textImage)[Auto attend class, WA Self bots, Fun with OpenCV OCR]
 - [MyAL](https://pypi.org/project/MyAL/0.3/)
-- [Some Notebooks from IITI Internship](https://github.com/Quanta-of-solitude/IITI)
-- [Software for IoT Development Board 1.0](https://github.com/Quanta-of-solitude/iOT-Development-Board-1.0)
+- [GHLPy](https://github.com/Quanta-of-solitude/GHLPy)
 - [Soul Worker API](https://github.com/Quanta-of-solitude/1213234234-worker-2342342)
+- [Software for IoT Development Board 1.0](https://github.com/Quanta-of-solitude/iOT-Development-Board-1.0)
+- [Some Notebooks from IITI Internship](https://github.com/Quanta-of-solitude/IITI)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=quanta-of-solitude&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="100%"/><br>
