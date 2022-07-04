@@ -30,7 +30,7 @@ Trying to get into Open Source
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=quanta-of-solitude&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="100%"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=quanta-of-solitude&1&theme=tokyonight&show_icons=true&hide_border=true" width="100%"/><br>
 
 
 
