@@ -12,7 +12,7 @@
 
 Profile isn't updated as much.
 
-B.Tech Student in IT Branch, looking for opportunities to learn and develop skills. Hoping to get experience in regions involving the use of Python, Machine Learning, Data Science, OpenCV and Research-Oriented problem-solving methodologies. 
+Looking for opportunities to learn and develop skills. Hoping to get experience in regions involving the use of Python, Machine Learning, Data Science, OpenCV and Research-Oriented problem-solving methodologies. 
 Experienced bot developer and API developer in Python.
 Experienced in embedded devices namely Arduino, Raspberry Pi and Nvidia Jetson Nano.
 
