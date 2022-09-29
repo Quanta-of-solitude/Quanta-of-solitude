@@ -7,7 +7,8 @@
 <a href="https://nyrize.herokuapp.com/">
 <img alt="" width="35px" src="https://lh3.googleusercontent.com/proxy/DgMTDj4hZNKu8mrSYhAkoTw88yI1iUjfXHud4jI8zLnk55EhM1VfSSlbIQUgakxGIlpNPKLrIxgMJt6BVChaDC5c3a3rLaMoHvOfTZaGsFLcLBkLNqvoczZf5fZGzDlmUjEd_nrQQ5yn1ri_NZjO" style="max-width:100%">
 </a>
-  
+
+[![@nyzex's Holopin board](https://holopin.io/api/user/board?user=nyzex)](https://holopin.io/@nyzex)  
 ## Me 💻 
 
 Profile isn't updated as much.
